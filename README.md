@@ -1,4 +1,4 @@
-Made as part of an assignment for COMP10120 Computer Programming II in CS 1st year<br/>
+Made as part of an assignment for Computer Programming II in CS 1st year<br/>
 Made by Elvin Jiby in VSCode<br/>
 18/03/2023<br/>
 <br/>
